@@ -1,0 +1,1 @@
+{\n  "name": "FamilyTreeCommunity",\n  "private": true,\n  "workspaces": [\n    "backend/*",\n    "web/*",\n    "mobile/*"\n  ],\n  "scripts": {\n    "postinstall": "npm install --workspaces"\n  }\n}
